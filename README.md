@@ -15,4 +15,4 @@ This module provides migration routines from Drupal 6, Drupal 7 webforms to Drup
 
 
 ### Common errors
-- If you get a warning about an extension `d7_webform` or `d7_webform_submission` on config import, and you are on a newer drupal 8 version, you can try renaming the files to `webform_migrate.d7_webform.yml` (etc.)
+- If you get a warning about an extension `d7_webform` or `d7_webform_submission` on config import, and you are on a newer drupal 8 version, you can try renaming the files to `migrate_plus.migration.upgrade_d7_webform.yml` (etc.)
